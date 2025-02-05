@@ -1,0 +1,2 @@
+Project title: Parkinson's Disease Gait Analysis classification
+Description: This repository contains code file(s) relating to the classification of Gait Raw Data into normal and Parkinson's Disease gait. 
